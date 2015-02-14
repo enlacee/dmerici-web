@@ -1,0 +1,6 @@
+[08-Jul-2014 23:11:33 America/Lima] PHP Fatal error:  Call to undefined function add_action() in /home/mylittle/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[08-Jul-2014 23:11:35 America/Lima] PHP Fatal error:  Call to undefined function add_action() in /home/mylittle/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[08-Jul-2014 23:11:55 America/Lima] PHP Fatal error:  Call to undefined function add_filter() in /home/mylittle/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[08-Jul-2014 23:12:45 America/Lima] PHP Fatal error:  Call to undefined function add_action() in /home/mylittle/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[08-Jul-2014 23:12:47 America/Lima] PHP Fatal error:  Call to undefined function add_filter() in /home/mylittle/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[08-Jul-2014 23:13:22 America/Lima] PHP Fatal error:  Call to undefined function add_action() in /home/mylittle/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3

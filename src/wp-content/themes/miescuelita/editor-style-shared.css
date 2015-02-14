@@ -1,0 +1,13 @@
+/** These styles are used in the backend editor AND in your Theme. **/
+.titulo1{
+	font-size: 30px;
+	font-weight: bold;
+	color: #218393;
+	text-decoration: none;
+}
+
+.subtitulo1{
+	font-size: 18px;
+	font-weight: bold;
+	color: #218393;
+}
